@@ -195,35 +195,24 @@ export default function HomePage() {
                 <CardHeader className="text-center">
                   <div className="mx-auto mb-4">
                     <img
-                      src="/professional-woman-lawyer-headshot.png"
-                      alt="Dr. Amanda Foster, Chief Legal Counsel"
+                      src="divya.jpg"
+                      alt="Divyadharshini G"
                       className="w-24 h-24 rounded-full object-cover mx-auto"
                     />
                   </div>
-                  <CardTitle className="text-lg">Dr. Amanda Foster, J.D., Ph.D.</CardTitle>
-                  <CardDescription>Chief Legal Counsel</CardDescription>
+                  <CardTitle className="text-lg">Divyadharshini G, BBA.LLB(Hons)</CardTitle>
                 </CardHeader>
                 <CardContent className="text-center space-y-3">
                   <div className="flex justify-center gap-2">
                     <Badge variant="secondary" className="text-xs">
                       <Scale className="w-3 h-3 mr-1" />
-                      Constitutional Law
-                    </Badge>
-                    <Badge variant="secondary" className="text-xs">
-                      <Shield className="w-3 h-3 mr-1" />
-                      Civil Rights
+                      Team lead
                     </Badge>
                   </div>
                   <p className="text-sm text-muted-foreground">
-                    20+ years in constitutional and civil rights law. Former federal prosecutor with expertise in
-                    complex victim compensation cases.
+                  Ensuring alignment with law and mental aid. Leads with passion and guiding towards justice and companion and also works to provide care and Justice to clients.
                   </p>
-                  <div className="flex justify-center">
-                    <Badge variant="outline" className="text-xs">
-                      <GraduationCap className="w-3 h-3 mr-1" />
-                      Yale Law School
-                    </Badge>
-                  </div>
+
                 </CardContent>
               </Card>
 
@@ -231,35 +220,24 @@ export default function HomePage() {
                 <CardHeader className="text-center">
                   <div className="mx-auto mb-4">
                     <img
-                      src="/professional-lawyer-headshot.png"
-                      alt="James Patterson, Immigration Attorney"
+                      src="sanjaykumar.jpg"
+                      alt="Sanjaykumar S"
                       className="w-24 h-24 rounded-full object-cover mx-auto"
                     />
                   </div>
-                  <CardTitle className="text-lg">James Patterson, J.D.</CardTitle>
-                  <CardDescription>Immigration & Human Rights Attorney</CardDescription>
+                  <CardTitle className="text-lg">Sanjaykumar S, BA.LLB(Hons)</CardTitle>
                 </CardHeader>
                 <CardContent className="text-center space-y-3">
                   <div className="flex justify-center gap-2">
                     <Badge variant="secondary" className="text-xs">
                       <Heart className="w-3 h-3 mr-1" />
-                      Immigration Law
+                      Operations and project manager
                     </Badge>
-                    <Badge variant="secondary" className="text-xs">
-                      <Users className="w-3 h-3 mr-1" />
-                      Human Trafficking
-                    </Badge>
+
                   </div>
                   <p className="text-sm text-muted-foreground">
-                    Specializes in immigration law and human trafficking cases. Fluent in Spanish and French with 14
-                    years of advocacy experience.
-                  </p>
-                  <div className="flex justify-center">
-                    <Badge variant="outline" className="text-xs">
-                      <Award className="w-3 h-3 mr-1" />
-                      Board Certified
-                    </Badge>
-                  </div>
+                  The strategist who keeps everything on track. Ensuring smooth coordination amd works as the pillar behind execution.                  </p>
+
                 </CardContent>
               </Card>
 
@@ -267,77 +245,50 @@ export default function HomePage() {
                 <CardHeader className="text-center">
                   <div className="mx-auto mb-4">
                     <img
-                      src="/professional-woman-legal-paralegal-headshot.jpg"
-                      alt="Maria Santos, Victim Advocate"
+                      src="arjun.jpg"
+                      alt="arjun"
                       className="w-24 h-24 rounded-full object-cover mx-auto"
                     />
                   </div>
-                  <CardTitle className="text-lg">Maria Santos, J.D.</CardTitle>
-                  <CardDescription>Senior Victim Advocate</CardDescription>
+                  <CardTitle className="text-lg">Arjun B, BBA.LLB(Hons)</CardTitle>
                 </CardHeader>
                 <CardContent className="text-center space-y-3">
                   <div className="flex justify-center gap-2">
                     <Badge variant="secondary" className="text-xs">
                       <Scale className="w-3 h-3 mr-1" />
-                      Victim Advocacy
-                    </Badge>
-                    <Badge variant="secondary" className="text-xs">
-                      <Users className="w-3 h-3 mr-1" />
-                      Restorative Justice
+                      Research and legal analyst
                     </Badge>
                   </div>
                   <p className="text-sm text-muted-foreground">
-                    Dedicated victim advocate with expertise in restorative justice and trauma-informed legal practices.
-                    10 years of direct victim support.
+                  Dives deep into cases, policies, and judgments, ensuring that our work is always backed by strong legal insights.
                   </p>
-                  <div className="flex justify-center">
-                    <Badge variant="outline" className="text-xs">
-                      <GraduationCap className="w-3 h-3 mr-1" />
-                      Georgetown Law
-                    </Badge>
-                  </div>
+                 
                 </CardContent>
               </Card>
-            </div>
-          </div>
 
-          {/* Mental Health Professionals */}
-          <div className="mb-16">
-            <h3 className="text-2xl font-semibold text-foreground mb-8 text-center">Mental Health Professionals</h3>
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               <Card className="border-border bg-card">
                 <CardHeader className="text-center">
                   <div className="mx-auto mb-4">
                     <img
-                      src="/professional-woman-therapist-psychologist-headshot.jpg"
-                      alt="Dr. Amanda Foster, Clinical Psychologist"
+                      src="/jayanthara.jpg"
+                      alt="jayanthara"
                       className="w-24 h-24 rounded-full object-cover mx-auto"
                     />
                   </div>
-                  <CardTitle className="text-lg">Dr. Amanda Foster, Ph.D.</CardTitle>
-                  <CardDescription>Clinical Psychologist</CardDescription>
+                  <CardTitle className="text-lg">Jayathra YS, B.COM.LLB ( Hons)
+                  </CardTitle>
                 </CardHeader>
                 <CardContent className="text-center space-y-3">
                   <div className="flex justify-center gap-2">
                     <Badge variant="secondary" className="text-xs">
                       <Heart className="w-3 h-3 mr-1" />
-                      Trauma Therapy
-                    </Badge>
-                    <Badge variant="secondary" className="text-xs">
-                      <Shield className="w-3 h-3 mr-1" />
-                      PTSD Treatment
+                      Client and mental aid Manager
                     </Badge>
                   </div>
                   <p className="text-sm text-muted-foreground">
-                    Specializes in trauma-informed care and PTSD treatment. 18 years of experience helping victims heal
-                    and recover.
+                  Listens, understands, and connects clients to both legal solutions and mental support, with care and empathy.
                   </p>
-                  <div className="flex justify-center">
-                    <Badge variant="outline" className="text-xs">
-                      <GraduationCap className="w-3 h-3 mr-1" />
-                      Ph.D. Clinical Psychology
-                    </Badge>
-                  </div>
+                 
                 </CardContent>
               </Card>
 
@@ -345,35 +296,23 @@ export default function HomePage() {
                 <CardHeader className="text-center">
                   <div className="mx-auto mb-4">
                     <img
-                      src="/professional-man-counselor-therapist-headshot.jpg"
-                      alt="James Wilson, Licensed Counselor"
+                      src="/Cristina.jpg"
+                      alt="Christina"
                       className="w-24 h-24 rounded-full object-cover mx-auto"
                     />
                   </div>
-                  <CardTitle className="text-lg">James Wilson, LCSW</CardTitle>
-                  <CardDescription>Licensed Clinical Social Worker</CardDescription>
+                  <CardTitle className="text-lg">Christina Shera/ini N, BBA.LLB ( Hons)</CardTitle>
                 </CardHeader>
                 <CardContent className="text-center space-y-3">
                   <div className="flex justify-center gap-2">
                     <Badge variant="secondary" className="text-xs">
                       <Users className="w-3 h-3 mr-1" />
-                      Group Therapy
-                    </Badge>
-                    <Badge variant="secondary" className="text-xs">
-                      <Heart className="w-3 h-3 mr-1" />
-                      Crisis Intervention
-                    </Badge>
+                      Communications and connecting manager
+                    </Badge>                    
                   </div>
                   <p className="text-sm text-muted-foreground">
-                    Expert in crisis intervention and group therapy facilitation. Specializes in supporting survivors of
-                    violence.
-                  </p>
-                  <div className="flex justify-center">
-                    <Badge variant="outline" className="text-xs">
-                      <Award className="w-3 h-3 mr-1" />
-                      Licensed LCSW
-                    </Badge>
-                  </div>
+                  Manages clients satisfaction and ensures that our message reaches the right people and confidential.
+                  </p>                  
                 </CardContent>
               </Card>
 
@@ -381,35 +320,50 @@ export default function HomePage() {
                 <CardHeader className="text-center">
                   <div className="mx-auto mb-4">
                     <img
-                      src="/professional-woman-psychiatrist-doctor-headshot.jpg"
-                      alt="Dr. Maria Santos, Psychiatrist"
+                      src="/Shareeka.jpg"
+                      alt="Shreeka"
                       className="w-24 h-24 rounded-full object-cover mx-auto"
                     />
                   </div>
-                  <CardTitle className="text-lg">Dr. Maria Santos, M.D.</CardTitle>
-                  <CardDescription>Psychiatrist</CardDescription>
+                  <CardTitle className="text-lg">Shreeka, BBA.LLB(Hons) </CardTitle>
                 </CardHeader>
                 <CardContent className="text-center space-y-3">
                   <div className="flex justify-center gap-2">
                     <Badge variant="secondary" className="text-xs">
                       <Heart className="w-3 h-3 mr-1" />
-                      Medication Management
+                      Documentation and information officer
                     </Badge>
-                    <Badge variant="secondary" className="text-xs">
-                      <Shield className="w-3 h-3 mr-1" />
-                      Anxiety & Depression
-                    </Badge>
+                   
                   </div>
                   <p className="text-sm text-muted-foreground">
-                    Board-certified psychiatrist specializing in trauma-related mental health conditions and medication
-                    management.
+                  Handles records, reports, and research archives, keeping our work clear, accessible and secure.
+
                   </p>
-                  <div className="flex justify-center">
-                    <Badge variant="outline" className="text-xs">
-                      <GraduationCap className="w-3 h-3 mr-1" />
-                      M.D. Psychiatry
-                    </Badge>
+                
+                </CardContent>
+              </Card>
+
+
+              <Card className="border-border bg-card">
+                <CardHeader className="text-center">
+                  <div className="mx-auto mb-4">
+                    <img
+                      src="/adhithya.jpg"
+                      alt="Aathithya Karikalan A"
+                      className="w-24 h-24 rounded-full object-cover mx-auto"
+                    />
                   </div>
+                  <CardTitle className="text-lg">Aathithya Karikalan A, BBA.LLB(Hons) </CardTitle>
+                </CardHeader>
+                <CardContent className="text-center space-y-3">
+                  <div className="flex justify-center gap-2">
+                    <Badge variant="secondary" className="text-xs">
+                      <Heart className="w-3 h-3 mr-1" />
+                      Technical support                    </Badge>                  
+                  </div>
+                  <p className="text-sm text-muted-foreground">
+                  Provides technical support and innovations. Ensures our presence is modern, impactful and engaging.
+                  </p>
                 </CardContent>
               </Card>
             </div>
@@ -445,8 +399,7 @@ export default function HomePage() {
               </CardHeader>
               <CardContent className="space-y-3">
                 <div className="text-center">
-                  <p className="text-2xl font-bold text-destructive">1-800-CRISIS-1</p>
-                  <p className="text-sm text-muted-foreground">Available 24 hours, 7 days a week</p>
+                  <p className="text-2xl font-bold text-destructive">+919342656199</p>
                 </div>
                 <Button className="w-full bg-destructive text-destructive-foreground hover:bg-destructive/90">
                   <Phone className="mr-2 h-4 w-4" />
@@ -501,20 +454,16 @@ export default function HomePage() {
          
 
           {/* Contact Information */}
-          <div className="mt-16 grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="mt-16 grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             <Card className="border-border bg-card">
               <CardHeader className="text-center">
                 <Clock className="h-8 w-8 text-primary mx-auto mb-2" />
-                <CardTitle className="text-lg">Office Hours</CardTitle>
+                <CardTitle className="text-lg">Working Hours</CardTitle>
               </CardHeader>
               <CardContent className="text-center space-y-2 text-sm">
                 <div>
                   <p className="font-medium">Monday - Friday</p>
-                  <p className="text-muted-foreground">8:00 AM - 8:00 PM</p>
-                </div>
-                <div>
-                  <p className="font-medium">Saturday</p>
-                  <p className="text-muted-foreground">3:00 PM - 5:00 PM</p>
+                  <p className="text-muted-foreground">8:00 AM - 5:00 PM</p>
                 </div>
                 <div>
                   <p className="font-medium">Sunday</p>
@@ -531,15 +480,16 @@ export default function HomePage() {
               <CardContent className="text-center space-y-2 text-sm">
                 <div>
                   <p className="font-medium">Main Line</p>
-                  <p className="text-muted-foreground">(555) 123-HELP</p>
+                  <p className="text-muted-foreground">+919787001594
+                  </p>
                 </div>
                 <div>
                   <p className="font-medium">Crisis Line</p>
-                  <p className="text-muted-foreground">(800) CRISIS-1</p>
+                  <p className="text-muted-foreground">+919342656199 </p>
                 </div>
                 <div>
                   <p className="font-medium">Text Support</p>
-                  <p className="text-muted-foreground">(555) 123-TEXT</p>
+                  <p className="text-muted-foreground">+919677215303</p>
                 </div>
               </CardContent>
             </Card>
@@ -552,39 +502,17 @@ export default function HomePage() {
               <CardContent className="text-center space-y-2 text-sm">
                 <div>
                   <p className="font-medium">General Inquiries</p>
-                  <p className="text-muted-foreground">info@jusnovamentria.org</p>
+                  <p className="text-muted-foreground">jusnovamentria@gmail.com</p>
                 </div>
                 <div>
                   <p className="font-medium">Legal Support</p>
-                  <p className="text-muted-foreground">legal@jusnovamentria.org</p>
+                  <p className="text-muted-foreground">jusnovamentria@gmail.com</p>
                 </div>
-                <div>
-                  <p className="font-medium">Counseling</p>
-                  <p className="text-muted-foreground">counseling@jusnovamentria.org</p>
-                </div>
+
               </CardContent>
             </Card>
 
-            <Card className="border-border bg-card">
-              <CardHeader className="text-center">
-                <MapPin className="h-8 w-8 text-primary mx-auto mb-2" />
-                <CardTitle className="text-lg">Locations</CardTitle>
-              </CardHeader>
-              <CardContent className="text-center space-y-2 text-sm">
-                <div>
-                  <p className="font-medium">Main Office</p>
-                  <p className="text-muted-foreground">Downtown Legal Center</p>
-                </div>
-                <div>
-                  <p className="font-medium">Satellite Offices</p>
-                  <p className="text-muted-foreground">5 Community Locations</p>
-                </div>
-                <div>
-                  <p className="font-medium">Virtual Services</p>
-                  <p className="text-muted-foreground">Available Nationwide</p>
-                </div>
-              </CardContent>
-            </Card>
+            
           </div>
 
           <div className="mt-12 text-center">
