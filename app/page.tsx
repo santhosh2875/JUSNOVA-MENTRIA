@@ -296,7 +296,7 @@ export default function HomePage() {
                 <CardHeader className="text-center">
                   <div className="mx-auto mb-4">
                     <img
-                      src="/sanjaykumar.jpg"
+                      src="/christina.jpg"
                       alt="Christina"
                       className="w-24 h-24 rounded-full object-cover mx-auto"
                     />
