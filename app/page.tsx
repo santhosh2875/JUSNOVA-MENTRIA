@@ -301,7 +301,7 @@ export default function HomePage() {
                       className="w-24 h-24 rounded-full object-cover mx-auto"
                     />
                   </div>
-                  <CardTitle className="text-lg">Christina Shera/ini N, BBA.LLB ( Hons)</CardTitle>
+                  <CardTitle className="text-lg">Christina Sheralini N, BBA.LLB ( Hons)</CardTitle>
                 </CardHeader>
                 <CardContent className="text-center space-y-3">
                   <div className="flex justify-center gap-2">
